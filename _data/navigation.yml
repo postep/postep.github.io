@@ -21,6 +21,7 @@ header:
       fr-CH   : *FR
       fr-FR   : *FR
       fr-LU   : *FR
+      pl      : &PL       Archiwa
       # @end locale config
     url: /archive.html
 
@@ -46,5 +47,54 @@ header:
       fr-CH   : *FR
       fr-FR   : *FR
       fr-LU   : *FR
+      pl      : &PL       O nas
       # @end locale config
     url: /about.html
+
+
+  - titles:
+      # @start locale config
+      en      : &EN       Blog
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      pl      : &PL       Blog
+      # @end locale config
+    url: /blog.html
+
+
+  - titles:
+      # @start locale config
+      en      : &EN       Courses
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      pl      : &PL       Kursy
+      # @end locale config
+    url: /courses.html
+
+  - titles:
+      # @start locale config
+      en      : &EN       Robots
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      pl      : &PL       Roboty
+      # @end locale config
+    url: /robots.html
+
+  - titles:
+      # @start locale config
+      en      : &EN       3D print
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      pl      : &PL       Druk 3D
+      # @end locale config
+    url: /3d.html
+  
+  
