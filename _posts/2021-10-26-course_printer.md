@@ -1,17 +1,15 @@
 ---
 title:  "Kurs robotyki -- Drukarka 3D"
-date:   2021-05-30 12:12:41 +0200
+date:   2021-10-26 12:12:41 +0200
 # layout: article
 ---
-Kurs nastawiony na zdobycie umiejętności konstruktorskie.
+Wraz z kursem [Kurs robotyki -- Manipulator]({% link _posts/2021-10-25-course_robot.md %}) chciałbym uruchomić jeszcze jeden kurs na podobnych zasadach.
+
 
 # O kursie
 
-Celem kursu jest zbudowanie drukarki 3D typu FDM wraz poznaniem teoretycznych podstaw technologii druku 3D.
-W ciągu semestralnego kursu uczniowie sami złoża i zaprogramują drukarkę 3D. 
-Studenci będą mieli okazję w praktyce zastosować i utrwalić wiedzę zdobytą w szkole średniej z przedmiotów takich jak matematyka, fizyka i informatyka.
-Poruszone zostaną kwestie mechaniki, mechatroniki, elektroniki i programowania. 
-Kurs przeznaczony dla maksymalnie 16 osób podzielonych w 4 zespoły.
+Celem kursu będzie zbudowanie drukarki 3D typu FDM wraz poznaniem teoretycznych podstaw technologii druku 3D.
+W ciągu semestralnego kursu uczniowie sami złoża i zaprogramują drukarkę 3D zgodną z projektem [HyperCube Evolution](https://www.thingiverse.com/thing:2254103). 
 
 # Plan kursu
 
