@@ -1,7 +1,7 @@
 default:
   text_skin: default
   highlight_theme: default
-  lang: en
+  lang: pl
   paths:
     root: /
     home: /
@@ -34,9 +34,9 @@ default:
     show_subscribe: false
     full_width: false
     sharing: false
-    comment: true
+    comment: false
     license: false
-    pageview: false
+    pageview: true
     search: default
 
 sources:

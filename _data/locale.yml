@@ -144,4 +144,30 @@ fr-FR:
   <<: *FR
 fr-LU:
   <<: *FR
+
+
+## => Polish
+########################
+pl: &PL
+  SUBSCRIBE               : "Subskrybuj"
+  READMORE                : "Czytaj więcej"
+  SEARCH                  : "Szukaj"
+  CANCEL                  : "Anuluj"
+  VIEWS                   : "Widoki"
+  LAST_UPDATED            : "Ostatnio aktualizowane"
+  PREVIOUS                : "Poprzedni"
+  NEXT                    : "Następny"
+  ARTICLE_DATE_FORMAT     : "%b %d, %Y"
+  ARTICLE_LIST_DATE_FORMAT: "%b %d"
+  STATISTICS              : "[POST_COUNT] postów, [PAGE_COUNT] stron."
+  LICENSE_ANNOUNCE        : "Udostępnione zgodnie z licencją [LICENSE]."
+  POST_ON_GITHUB          : "Edytuj na Github"
+  FOLLOW_ME               : "Śledź mnie na [NAME]."
+  FOLLOW_US               : "Śledź nas na [NAME]."
+  EMAIL_ME                : "Wyślij Email."
+  EMAIL_US                : "Wyślij Email."
+  COPYRIGHT_DATES         : "2021"
+
+pl-PL:
+  <<: *PL
 # @end locale config
