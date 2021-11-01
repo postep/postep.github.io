@@ -1,8 +1,16 @@
 ---
 title:  "Kurs robotyki -- Drukarka 3D"
-date:   2021-10-26 12:12:41 +0200
-# layout: article
+date:   2021-10-26 14:12:00 +0200
+layout: article
+mode: immersive
+header:
+  theme: dark
+article_header:
+  type: overlay
+  theme: dark
+  background_color: '#0c3d0c'
 ---
+<!--more-->
 Wraz z kursem [Kurs robotyki -- Manipulator]({% link _posts/2021-10-25-course_robot.md %}) chciałbym uruchomić jeszcze jeden kurs na podobnych zasadach.
 
 

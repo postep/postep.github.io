@@ -1,8 +1,17 @@
 ---
 title:  "Kurs robotyki -- Manipulator"
-date:   2021-05-30 11:24:41 +0200
+date:   2021-10-25 11:24:41 +0200
+layout: article
+mode: immersive
+header:
+  theme: dark
+article_header:
+  type: overlay
+  theme: dark
+  background_color: '#2f324d'
 ---
-Przedstawiam plan kursu robotycznego przeznaczonego dla licealistów. Kurs na terenie Lublina chciałbym uruchomić na początku 2022 roku. 
+<!--more-->
+Zdobywając około dziesięcioletnie doświadczenie w prowadzeniu korepetycji z matematyki i informatyki planuję uruchomić kurs robotyki dla licealistów. Kurs na terenie Lublina chciałbym uruchomić na początku 2022 roku. 
 
 # O kursie
 
