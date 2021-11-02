@@ -21,7 +21,7 @@ W 2018 roku obroniłem tytuł inżyniera (kierunek studiów Informatyka) a w 201
 
 # Praca
 
-Od 2013 roku udzielam korepetycji z matematyki i informatyki. Od 2013 roku realizuję komercyjne projekty na zlecenie. Od 2018 roku jestem zatrudniony jako programista. Główne technologie w których pracuję to Python, Mongo, C++, Git.  
+Od 2013 roku udzielam korepetycji z matematyki i informatyki. Od 2013 roku realizuję komercyjne projekty na zlecenie. Od 2018 roku jestem zatrudniony jako programista w zespole scrumowym. Główne technologie w których pracuję to Python, Mongo, C++, ROS.  
 
 # Zainteresowanie
 Interesuje mnie wszystko co wykorzystuje robotyka czyli systemy decyzyjne, uczenie maszynowe, rozpoznawanie obrazu, projektowanie i programowanie elektroniki oraz systemy czasu rzeczywistego. Z ciekawościa spoglądam na rozwój informatyki kwantowej. Prywatnie uwielbiam narciarstwo i wycieczki rowerowe.
