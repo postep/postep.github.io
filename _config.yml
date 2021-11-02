@@ -18,9 +18,9 @@
 ##############################
 text_skin: forest # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
-url     : # the base hostname & protocol for your site e.g. https://www.someone.com
+url     : https://robotyka-lbn.pl # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
-title   : progre2s.com
+title   : robotyka-lbn.pl
 description: > # this means to ignore newlines until "Language & timezone"
   Blog Jakuba Postępskiego
 

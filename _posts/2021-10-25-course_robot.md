@@ -11,7 +11,7 @@ article_header:
   background_color: '#2f324d'
 ---
 <!--more-->
-Zdobywając około dziesięcioletnie doświadczenie w prowadzeniu korepetycji z matematyki i informatyki planuję uruchomić kurs robotyki dla licealistów. Kurs na terenie Lublina chciałbym uruchomić na początku 2022 roku. 
+Chcąc poszerzać umiejętności korepetytorskie planuję uruchomić kurs robotyki dla licealistów. Kurs na terenie Lublina chciałbym uruchomić na początku 2022 roku. 
 
 # O kursie
 
